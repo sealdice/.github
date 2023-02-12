@@ -9,7 +9,7 @@
 
 形象是海豹，可以被叫做**海豹骰、豹骰，豹子骰**之类。
 
-## [快速上手](https://github.com/sealdice/manual)
+## [快速上手](https://github.com/sealdice/manual/blob/master/SealDice%E6%8C%87%E4%BB%A4%E6%89%8B%E5%86%8C.md)
 
 ## [牌堆仓库](https://github.com/sealdice/draw)
 
