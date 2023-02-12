@@ -1,4 +1,33 @@
-这里是对海豹社区的展望，很希望你能完整的阅读，因为我们希望构建一个社区，而不是单单一个骰系。
+# SealDice: 海豹TRPG骰点核心
+## 一个轻量易用的全能骰点核心
+
+![sealdice](static/manual.assets/sealdice.png)
+
+## 概述
+
+一个简单易用的跑团骰子系统。
+
+形象是海豹，可以被叫做**海豹骰、豹骰，豹子骰**之类。
+
+## [快速上手](https://github.com/sealdice/manual)
+
+## [牌堆仓库](https://github.com/sealdice/draw)
+
+## [自定义回复仓库](https://github.com/sealdice/reply)
+
+## [JS插件仓库](https://github.com/sealdice/javascript)
+
+## 一些花活
+
+### [将海豹接入MC服务器](https://github.com/sealdice/sealdice-minecraft)
+
+### [DiceScript](https://github.com/sealdice/dicescript)
+
+### [跑团log染色器](https://github.com/sealdice/story-painter)
+
+## 来自海豹开发者们的话
+
+非常感谢你读到这里，这里是对海豹社区的展望，我们希望构建一个社区，而不是单单一个骰系。
 
 社区的好处在于所有人都可以参与到海豹的成长中来，充分发挥每个人的主观能动性。
 
